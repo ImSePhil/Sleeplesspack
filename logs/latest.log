@@ -1,0 +1,94 @@
+[19:23:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:23:20] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:23:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:23:20] [main/INFO]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[19:23:20] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Phil\Twitch\Minecraft\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[19:23:20] [main/INFO]: Searching C:\Users\Phil\Twitch\Minecraft\Instances\Ultimate Gamer Pack\mods for mods
+[19:23:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:23:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:23:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:23:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:23:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:23:22] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:23:22] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[19:23:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:23:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:23:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:23:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:23:22] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:23:23] [Client thread/INFO]: Setting user: InternalError_
+[19:23:25] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:23:26] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[19:23:26] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1011284528 bytes (964 MB) / 1173356544 bytes (1119 MB) up to 9544663040 bytes (9102 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx10240m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 466.77' Renderer: 'NVIDIA GeForce RTX 3070/PCIe/SSE2'
+[19:23:26] [Client thread/INFO]: MinecraftForge v14.23.5.2855 Initialized
+[19:23:26] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:23:26] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:23:26] [Client thread/INFO]: Replaced 1227 ore ingredients
+[19:23:26] [Client thread/INFO]: Searching C:\Users\Phil\Twitch\Minecraft\Instances\Ultimate Gamer Pack\mods for mods
+[19:23:28] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+[19:23:28] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei] at CLIENT
+[19:23:28] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei] at SERVER
+[19:23:28] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 155114700 nanos
+[19:23:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Enough Items
+[19:23:29] [Client thread/INFO]: Processing ObjectHolder annotations
+[19:23:29] [Client thread/INFO]: Found 1168 ObjectHolder annotations
+[19:23:29] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[19:23:29] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[19:23:29] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[19:23:29] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:23:29] [Client thread/INFO]: Applying holder lookups
+[19:23:29] [Client thread/INFO]: Holder lookups applied
+[19:23:29] [Client thread/INFO]: Applying holder lookups
+[19:23:29] [Client thread/INFO]: Holder lookups applied
+[19:23:29] [Client thread/INFO]: Applying holder lookups
+[19:23:29] [Client thread/INFO]: Holder lookups applied
+[19:23:29] [Client thread/INFO]: Applying holder lookups
+[19:23:29] [Client thread/INFO]: Holder lookups applied
+[19:23:29] [Client thread/INFO]: Injecting itemstacks
+[19:23:29] [Client thread/INFO]: Itemstack injection complete
+[19:23:30] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:23:30] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[19:23:30] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:23:30] [Thread-5/INFO]: OpenAL initialized.
+[19:23:30] [Sound Library Loader/INFO]: Sound engine started
+[19:23:33] [Client thread/INFO]: Max texture size: 16384
+[19:23:35] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:23:36] [Client thread/INFO]: Applying holder lookups
+[19:23:36] [Client thread/INFO]: Holder lookups applied
+[19:23:36] [Client thread/INFO]: Created: 256x128 textures-atlas
+[19:23:36] [Client thread/INFO]: Injecting itemstacks
+[19:23:36] [Client thread/INFO]: Itemstack injection complete
+[19:23:36] [Client thread/INFO]: Starting JEI...
+[19:23:36] [Client thread/INFO]: Registering recipe categories...
+[19:23:36] [Client thread/INFO]: Registering recipe categories took 15.02 ms
+[19:23:36] [Client thread/INFO]: Registering mod plugins...
+[19:23:36] [Client thread/INFO]: Registering mod plugins took 132.7 ms
+[19:23:36] [Client thread/INFO]: Building recipe registry...
+[19:23:36] [Client thread/INFO]: Building recipe registry took 51.24 ms
+[19:23:36] [Client thread/INFO]: Building ingredient list...
+[19:23:36] [Client thread/INFO]: Building ingredient list took 20.51 ms
+[19:23:36] [Client thread/INFO]: Building ingredient filter...
+[19:23:36] [Client thread/INFO]: Building ingredient filter took 97.97 ms
+[19:23:36] [Client thread/INFO]: Building bookmarks...
+[19:23:36] [Client thread/INFO]: Building bookmarks took 5.033 ms
+[19:23:36] [Client thread/INFO]: Building runtime...
+[19:23:36] [Client thread/INFO]: Building runtime took 98.69 ms
+[19:23:36] [Client thread/INFO]: Optimizing memory usage...
+[19:23:36] [Client thread/INFO]: Optimizing memory usage took 30.27 ms
+[19:23:36] [Client thread/INFO]: Starting JEI took 629.4 ms
+[19:23:37] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+[19:23:37] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:23:47] [Client thread/INFO]: Stopping!
+[19:23:47] [Client thread/INFO]: SoundSystem shutting down...
+[19:23:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
